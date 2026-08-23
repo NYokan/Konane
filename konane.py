@@ -1,6 +1,7 @@
 """
 Proyecto N°1: Fundamentos de Inteligencia Artificial
 Juego: Konane (Fase 1 - Entorno para 2 jugadores humanos)
+Integrantes: Matías Muñoz, Javier Marchant y Daniel Rivera
 """
 
 def mostrar_instrucciones():
